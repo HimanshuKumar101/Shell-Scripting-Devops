@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1741460658,,"wq"
+|2,0,1741548550,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,230 +25,287 @@
 # Registers:
 
 # File marks:
-'0  96  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,48,96,0,1741460658,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
-'1  35  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,49,35,0,1741460512,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
-'2  35  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,50,35,0,1741460512,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
-'3  1  909  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,51,1,909,1741460056,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
-'4  58  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,52,58,1,1741460056,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
-'5  1  909  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,53,1,909,1741460056,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
-'6  58  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,54,58,1,1741460056,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
-'7  1  435  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,55,1,435,1741458359,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
-'8  1  435  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,56,1,435,1741458359,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
-'9  27  9  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,57,27,9,1741458359,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
+'0  21  19  ~/two-tier-flask-app/Makefile
+|4,48,21,19,1741548550,"~/two-tier-flask-app/Makefile"
+'1  1  23  ~/two-tier-flask-app/Makefile
+|4,49,1,23,1741548502,"~/two-tier-flask-app/Makefile"
+'2  1  23  ~/two-tier-flask-app/Makefile
+|4,50,1,23,1741548502,"~/two-tier-flask-app/Makefile"
+'3  13  4  ~/two-tier-flask-app/Makefile
+|4,51,13,4,1741548276,"~/two-tier-flask-app/Makefile"
+'4  12  4  ~/two-tier-flask-app/Makefile
+|4,52,12,4,1741548276,"~/two-tier-flask-app/Makefile"
+'5  13  4  ~/two-tier-flask-app/Makefile
+|4,53,13,4,1741548276,"~/two-tier-flask-app/Makefile"
+'6  12  4  ~/two-tier-flask-app/Makefile
+|4,54,12,4,1741548276,"~/two-tier-flask-app/Makefile"
+'7  7  18  ~/two-tier-flask-app/Makefile
+|4,55,7,18,1741548068,"~/two-tier-flask-app/Makefile"
+'8  7  18  ~/two-tier-flask-app/Makefile
+|4,56,7,18,1741548068,"~/two-tier-flask-app/Makefile"
+'9  6  18  ~/two-tier-flask-app/Makefile
+|4,57,6,18,1741548068,"~/two-tier-flask-app/Makefile"
 
 # Jumplist (newest first):
--'  96  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,96,0,1741460658,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  35  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,35,0,1741460593,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  35  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,35,0,1741460512,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  1  909  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,1,909,1741460166,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  1  909  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,1,909,1741460166,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  58  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,58,1,1741460056,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  58  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,58,1,1741460056,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  27  9  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,27,9,1741459980,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  27  9  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,27,9,1741459980,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  27  9  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,27,9,1741458359,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  28  28  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,28,28,1741458219,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  28  28  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,28,28,1741458219,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  28  28  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,28,28,1741458219,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  48  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,48,3,1741457976,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  49  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,49,3,1741457976,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  48  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,48,3,1741457976,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  49  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,49,3,1741457976,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  48  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,48,3,1741457976,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  49  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,49,3,1741457976,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  45  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,45,3,1741457946,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  46  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,46,3,1741457946,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  45  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,45,3,1741457946,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  46  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,46,3,1741457946,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  45  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,45,3,1741457946,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  46  3  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,46,3,1741457946,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  42  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,42,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  39  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,39,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  43  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,43,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  40  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,40,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  42  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,42,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  39  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,39,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  43  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,43,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  40  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,40,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  42  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,42,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  39  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,39,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  43  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,43,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  40  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,40,1,1741457785,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  40  1  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,40,1,1741457734,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  22  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,22,0,1741457616,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  22  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,22,0,1741457616,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  22  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,22,0,1741457616,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  22  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,22,0,1741457616,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  22  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,22,0,1741457616,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  22  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,22,0,1741457616,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  22  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,22,0,1741457574,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  78  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,78,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  60  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,60,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  44  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,44,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  41  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,41,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  61  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,61,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  50  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,50,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  47  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,47,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  57  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,57,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  78  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,78,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  60  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,60,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  44  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,44,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  41  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,41,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  61  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,61,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  50  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,50,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  47  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,47,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  57  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,57,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  44  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,44,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  49  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,49,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  41  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,41,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  46  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,46,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  58  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,58,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  45  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,45,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  50  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,50,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  50  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,50,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  42  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,42,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  47  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,47,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  42  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,42,42,1741457467,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  79  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,79,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  80  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,80,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  62  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,62,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  59  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,59,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  51  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,51,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  63  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,63,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  52  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,52,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  56  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,56,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  79  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,79,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  80  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,80,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  62  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,62,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  59  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,59,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  51  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,51,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  63  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,63,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  52  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,52,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  59  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,59,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  56  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,56,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  51  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,51,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  43  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,43,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  60  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,60,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  57  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,57,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  47  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,47,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  52  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,52,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  47  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,47,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  49  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,49,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  44  42  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,44,42,1741457294,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  1  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,1,0,1741456237,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
--'  1  0  ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
-|4,39,1,0,1741456237,"~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh"
+-'  21  19  ~/two-tier-flask-app/Makefile
+|4,39,21,19,1741548550,"~/two-tier-flask-app/Makefile"
+-'  1  23  ~/two-tier-flask-app/Makefile
+|4,39,1,23,1741548535,"~/two-tier-flask-app/Makefile"
+-'  1  23  ~/two-tier-flask-app/Makefile
+|4,39,1,23,1741548502,"~/two-tier-flask-app/Makefile"
+-'  13  4  ~/two-tier-flask-app/Makefile
+|4,39,13,4,1741548339,"~/two-tier-flask-app/Makefile"
+-'  13  4  ~/two-tier-flask-app/Makefile
+|4,39,13,4,1741548339,"~/two-tier-flask-app/Makefile"
+-'  12  4  ~/two-tier-flask-app/Makefile
+|4,39,12,4,1741548276,"~/two-tier-flask-app/Makefile"
+-'  12  4  ~/two-tier-flask-app/Makefile
+|4,39,12,4,1741548276,"~/two-tier-flask-app/Makefile"
+-'  7  18  ~/two-tier-flask-app/Makefile
+|4,39,7,18,1741548099,"~/two-tier-flask-app/Makefile"
+-'  6  18  ~/two-tier-flask-app/Makefile
+|4,39,6,18,1741548099,"~/two-tier-flask-app/Makefile"
+-'  7  18  ~/two-tier-flask-app/Makefile
+|4,39,7,18,1741548099,"~/two-tier-flask-app/Makefile"
+-'  6  18  ~/two-tier-flask-app/Makefile
+|4,39,6,18,1741548099,"~/two-tier-flask-app/Makefile"
+-'  6  18  ~/two-tier-flask-app/Makefile
+|4,39,6,18,1741548068,"~/two-tier-flask-app/Makefile"
+-'  4  14  ~/two-tier-flask-app/Makefile
+|4,39,4,14,1741547946,"~/two-tier-flask-app/Makefile"
+-'  3  14  ~/two-tier-flask-app/Makefile
+|4,39,3,14,1741547946,"~/two-tier-flask-app/Makefile"
+-'  4  14  ~/two-tier-flask-app/Makefile
+|4,39,4,14,1741547946,"~/two-tier-flask-app/Makefile"
+-'  3  14  ~/two-tier-flask-app/Makefile
+|4,39,3,14,1741547946,"~/two-tier-flask-app/Makefile"
+-'  3  14  ~/two-tier-flask-app/Makefile
+|4,39,3,14,1741547946,"~/two-tier-flask-app/Makefile"
+-'  3  14  ~/two-tier-flask-app/Makefile
+|4,39,3,14,1741547894,"~/two-tier-flask-app/Makefile"
+-'  20  22  ~/two-tier-flask-app/Makefile
+|4,39,20,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  18  22  ~/two-tier-flask-app/Makefile
+|4,39,18,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  17  22  ~/two-tier-flask-app/Makefile
+|4,39,17,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  19  22  ~/two-tier-flask-app/Makefile
+|4,39,19,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  16  22  ~/two-tier-flask-app/Makefile
+|4,39,16,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  21  22  ~/two-tier-flask-app/Makefile
+|4,39,21,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  20  22  ~/two-tier-flask-app/Makefile
+|4,39,20,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  18  22  ~/two-tier-flask-app/Makefile
+|4,39,18,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  17  22  ~/two-tier-flask-app/Makefile
+|4,39,17,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  20  22  ~/two-tier-flask-app/Makefile
+|4,39,20,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  19  22  ~/two-tier-flask-app/Makefile
+|4,39,19,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  17  22  ~/two-tier-flask-app/Makefile
+|4,39,17,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  16  22  ~/two-tier-flask-app/Makefile
+|4,39,16,22,1741547859,"~/two-tier-flask-app/Makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makefile
+|4,39,1,0,1741547837,"~/two-tier-flask-app/makefile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
+-'  1  0  ~/two-tier-flask-app/makeFile
+|4,39,1,0,1741547327,"~/two-tier-flask-app/makeFile"
 
 # History of marks within files (newest to oldest):
+
+> ~/two-tier-flask-app/Makefile
+	*	1741548548	0
+	"	21	19
+	^	21	20
+	.	21	20
+	+	4	19
+	+	21	22
+	+	4	14
+	+	7	19
+	+	10	4
+	+	8	0
+	+	11	24
+	+	13	4
+	+	1	24
+	+	21	20
+
+> ~/two-tier-flask-app/makefile
+	*	1741547833	0
+	"	1	0
+
+> ~/two-tier-flask-app/makeFile
+	*	1741547324	0
+	"	1	0
+
+> ~/Shell-Scripting-For-DevOps/day04/create_ec2.sh
+	*	1741545473	0
+	"	105	3
+	^	105	4
+	.	90	0
+	+	105	0
+	+	12	0
+	+	88	28
+	+	89	3
+	+	87	15
+	+	89	13
+	+	87	3
+	+	9	8
+	+	89	4
+	+	92	32
+	+	94	14
+	+	95	38
+	+	96	43
+	+	4	41
+	+	16	27
+	+	9	22
+	+	11	27
+	+	12	0
+	+	32	0
+	+	28	28
+	+	31	6
+	+	38	42
+	+	53	31
+	+	85	13
+	+	88	4
+	+	89	4
+	+	90	0
 
 > ~/Shell-Scripting-For-DevOps/daythree/deploy_django_app.sh
 	*	1741460654	0

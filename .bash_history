@@ -132,3 +132,166 @@ clear
 ls
 vim check_if_jetha_loyal.sh
 ./check_if_jetha_loyal.sh
+clear
+ls
+cd Shell-Scripting-For-DevOps/
+ls
+mkdir daythree
+cd daythree/
+vim error_handle.sh
+clear
+chmod 700 error_handle.sh
+./error_handle.sh
+ls
+./error_handle.sh
+vim error_handle.sh
+ls
+rm -r demo/
+ls
+clear
+./error_handle.sh
+vim error_handle.sh
+vim deploy_django_app.sh
+chmod 700 deploy_django_app.sh
+clear
+./deploy_django_app.sh
+docker ps
+vim deploy_django_app.sh
+clear
+./deploy_django_app.sh
+clear
+vim deploy_django_app.sh
+./deploy_django_app.sh
+vim deploy_django_app.sh
+clear
+./deploy_django_app.sh
+vim deploy_django_app.sh
+clear
+./deploy_django_app.sh
+vim deploy_django_app.sh
+./deploy_django_app.sh
+docker ps
+clear
+docker ps
+ls
+cd Shell-Scripting-For-Devops/
+ls
+cd Shell-Scripting-For-DevOps/
+clear
+ls
+cd daythree
+ls
+./deploy_django_app.sh
+clear
+docker ps
+ls
+cd Shell-Scripting-For-DevOps
+ls
+cd daythree/
+ls
+./deploy_django_app.sh
+clear
+ls
+vim deploy_django_app.sh
+./deploy_django_app.sh
+docker ps
+vim deploy_django_app.sh
+clear
+./deploy_django_app.sh
+clear
+vim deploy_django_app.sh
+./deploy_django_app.sh
+cd ..
+ls
+rm -r day0/
+ls
+rm -r daythree
+ls
+rm -r daytwo
+ls
+git init
+git commit -m "first commit"
+git status
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HimanshuKumar101/Shell-Scripting.git
+git push -u origin main
+clear
+git status
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HimanshuKumar101/Shell-Scripting.git
+git push -u origin main
+git remote add origin https://github.com/HimanshuKumar101/Shell-Scripting.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/HimanshuKumar101/Shell-Scripting.git
+git branch -M main
+git push -u origin main
+clear
+git remote add origin https://github.com/HimanshuKumar101/Shell-Scripting.git
+git branch -M main
+git push -u origin main
+clear
+ls
+cd day03
+ls
+cd ..
+ls
+git init
+git status
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HimanshuKumar101/Shell-Scripting-Devops.git
+git push -u origin main
+clear
+clear
+ls
+cd tws/
+ls
+cd ..
+ls
+git init
+git status
+git add .
+git rm --cached -r Shell-Scripting-For-DevOps  # Remove it from tracking
+git submodule add <repo_url> Shell-Scripting-For-DevOps
+git commit -m "Added Shell-Scripting-For-DevOps as a submodule"
+git status
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HimanshuKumar101/Shell-Scripting-Devops.git
+git push -u origin main
+clear
+ls
+cd tws/
+ls
+cd ..
+cd Shell-Scripting-For-DevOps
+ls
+cd day04/
+ls
+cd ..
+clear
+clear
+ls
+cd Shell-Scripting-For-Devops
+cd Shell-Scripting-For-Devops/
+ls
+cd Shell-Scripting-For-DevOps/
+ls
+clear
+ls
+cd day04/
+ls
+vim create_ec2.sh
+clear
+chmod 700 create_ec2.sh
+./create_ec2.sh
+vim create_ec2.sh
+./create_ec2.sh
+vim create_ec2.sh
+./create_ec2.sh
